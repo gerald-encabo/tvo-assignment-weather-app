@@ -4,6 +4,7 @@ This responsive Weather Forecast Single Page Application (SPA) enables users to 
 <ul>
     <li>React Hooks (useState, useRef) for efficient data management and manipulation</li>
     <li>Tailwind CSS for streamlined and responsive styling</li>
+    <li>Google Fonts for typography and styling</li>
     <li>Flaticon.com as the source for application imagery</li>
     <li>Amazon S3 for cloud-based image storage</li>
     <li>Amazon Amplify for deploying and hosting the application</li>
