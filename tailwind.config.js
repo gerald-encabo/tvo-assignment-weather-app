@@ -12,6 +12,7 @@ export default {
       }
     },
     screens: {
+      'tablet': {'max': '768px'},
       'mobile': {'max': '540px'},
     },
   },
