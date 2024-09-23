@@ -1,14 +1,14 @@
 ## Weather API App - Vite React Tailwind
 
-This is a responsive Weather forecast Single Page Application (SPA) designed to search city that will provide temperature data of search location. Here's the list of tech stack involve for this assignment:
+This responsive Weather Forecast Single Page Application (SPA) enables users to search for a city and access temperature data for the specified location. The following technologies were utilized in its development:
 <ul>
-    <li>React Hooks useState and useRef for data gathering and manipulation</li>
-    <li>Tailwind CSS for styling the application</li>
-    <li>Flaticon.com is the source of the images used</li>
-    <li>Amazon S3 for cloud storage for the images</li>
-    <li>Amazon Amplify for hosting web applcation</li>
-    <li>Material-UI for search icon use  </li>
-    <li>VITE for build tool for fast local development server</li>
+    <li>React Hooks (useState, useRef) for efficient data management and manipulation</li>
+    <li>Tailwind CSS for streamlined and responsive styling</li>
+    <li>Flaticon.com as the source for application imagery</li>
+    <li>Amazon S3 for cloud-based image storage</li>
+    <li>Amazon Amplify for deploying and hosting the application</li>
+    <li>Material-UI for implementing the search icon</li>
+    <li>VITE as the build tool, enabling fast local development and optimized builds</li>
 </ul>
 
 #### Live link:
