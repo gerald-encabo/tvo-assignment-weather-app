@@ -66,7 +66,7 @@ const WeatherCard = () => {
   };
 
   return (
-    <section className="flex flex-col justify-center text-center items-center p-[40px] m-[20px] rounded-[10px] place-self-center bg-gradient-to-r from-gray-500 to-gray-600 tablet:h-full tablet:w-full tablet:rounded-none tablet:m-0">
+    <section className="flex flex-col justify-center text-center items-center p-[40px] m-[40px] rounded-[10px] place-self-center bg-gradient-to-r from-gray-500 to-gray-600 tablet:h-full tablet:w-full tablet:rounded-none tablet:m-0">
       <h1 className="text-lightColor text-[2.5rem] pb-[20px]">Weather App</h1>
       <div className="flex align-middle gap-3 mobile:flex items-center">
         <input 
