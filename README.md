@@ -11,6 +11,7 @@ This responsive Weather Forecast Single Page Application (SPA) enables users to 
     <li>Material-UI for implementing the search icon</li>
     <li>VITE as the build tool, enabling fast local development and optimized builds</li>
     <li>GitHub for cloud-based code storage and version control</li>
+    <li>OpenWeatherMap API for retrieving real-time weather data for searched locations</li>
 </ul>
 
 #### Live link:
