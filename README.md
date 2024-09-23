@@ -9,6 +9,7 @@ This responsive Weather Forecast Single Page Application (SPA) enables users to 
     <li>Amazon Amplify for deploying and hosting the application</li>
     <li>Material-UI for implementing the search icon</li>
     <li>VITE as the build tool, enabling fast local development and optimized builds</li>
+    <li>GitHub for cloud-based code storage and version control</li>
 </ul>
 
 #### Live link:
