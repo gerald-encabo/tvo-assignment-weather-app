@@ -6,7 +6,7 @@ This is a responsive Weather forecast Single Page Application (SPA) designed to 
     <li>Tailwind CSS for styling the application</li>
     <li>Flaticon.com is the source of the images used</li>
     <li>Amazon S3 for cloud storage for the images</li>
-    <li>Amazon Amplify for hosting Weather API applcation</li>
+    <li>Amazon Amplify for hosting web applcation</li>
     <li>Material-UI for search icon use  </li>
     <li>VITE for build tool for fast local development server</li>
 </ul>
