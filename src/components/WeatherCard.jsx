@@ -1,6 +1,5 @@
 import { useRef, useState } from "react";
 import SearchIcon from '@mui/icons-material/Search';
-const search_icon = "https://s3-weather-app.s3.us-east-2.amazonaws.com/search.png";
 const clear_icon = "https://s3-weather-app.s3.us-east-2.amazonaws.com/clear.png";
 const cloud_icon = "https://s3-weather-app.s3.us-east-2.amazonaws.com/cloudy.png";
 const drizzle_icon = "https://s3-weather-app.s3.us-east-2.amazonaws.com/drizzle.png";
